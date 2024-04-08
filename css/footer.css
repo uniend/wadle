@@ -1,0 +1,38 @@
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+
+}
+
+.keybord-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+
+.keyboard-block{
+  font-size: 20px;
+  line-height: 58px;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 43px;
+  height: 60px;
+  background-color: #d3d6da;
+  text-align: center;
+  
+}
+
+.wide{
+  width: 80px;
+}
+
+.remove{
+  width: 40px;
+  padding-top: 10px;
+}

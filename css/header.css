@@ -1,0 +1,41 @@
+header {
+  padding: 30px 0;
+  margin: 0 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #d3d6da;
+}
+
+.logo{
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-left: 15%;
+}
+
+.bar img{
+  width: 40px;
+  height: 40px;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+.menu button{
+  padding: 1em;
+  border-radius: 1.5em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.menu .nav {
+  margin-right: 20px;
+}
+
+.menu .nav img{
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+}
+
